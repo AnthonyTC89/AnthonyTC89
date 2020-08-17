@@ -1,6 +1,6 @@
 ### Hi there, I'm Anthony Tapia 👋
 
-[![Portfolio](https://img.shields.io/website?label=Portfolio.com&style=for-the-badge&url=https://anthonytc89.github.io/portfolio-v2/)](https://anthonytc89.github.io/portfolio-v2/)
+[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://anthonytc89.github.io/portfolio-v2/)](https://anthonytc89.github.io/portfolio-v2/)
 
 ## I'm a Full Stack Developer!
 
@@ -12,9 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AnthonyTC89" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="AnthonyTC89 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AnthonyTC89 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" style="margin: 0.5rem" alt="AnthonyTC89" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" style="margin: 0.5rem" alt="AnthonyTC89 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" style="margin: 0.5rem" alt="AnthonyTC89 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
