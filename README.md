@@ -38,13 +38,6 @@
 
 ---
 
-<details>
-  <summary> Github Stats</summary>
-
-  <img align="left" alt="AnthonyTC89's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AnthonyTC89&show_icons=true&hide_border=true" />
-
-</details>
-
 [portfolio]: https://anthonytc89.github.io/portfolio-v2
 [twitter]: https://twitter.com/ptonypTC
 [linkedin]: https://www.linkedin.com/in/anthony-tapia-cossio/
