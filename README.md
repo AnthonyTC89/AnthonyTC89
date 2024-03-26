@@ -4,8 +4,7 @@
 
 ## I'm a Full Stack Developer!
 
-- 🔭 I’m currently working on Personal Projects!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking for my next challenge in Develop.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read and play guitar.
